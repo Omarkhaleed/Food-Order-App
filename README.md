@@ -34,7 +34,7 @@
   So to a server with the HTTP request we probably also want to validate the user input.
 
 ## Screenshots
-![Example screenshot](./imges/Screen.png)
+![Example screenshot](./Images/Screen.png)
 
 
 ## Project Status
